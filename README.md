@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Sergey
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hola! 👋
 
-<!---
-psil0cibin/psil0cibin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Меня зовут Сергей и я Java-разработчик. 
+Здесь я буду делиться своими проектами на Java, которые создаю в процессе обучения. 
+Свяжитесь со мной по электронной почте <serj.lukushin@gmail.com>, если у вас есть вопросы. 
+Благодарю за внимание! 🚀
